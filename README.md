@@ -18,7 +18,8 @@ This directory contains the instruction data constructed from two sources:
 
 - the rule-based emergency-response dataset from the DataFountain competition:  
   https://www.datafountain.cn/competitions/1086
-- the C3 dataset
+- the C3 dataset:
+  https://dataset.org/c3/
 
 Each instruction instance includes:
 
