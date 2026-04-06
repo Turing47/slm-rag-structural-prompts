@@ -42,17 +42,6 @@ Each template is named using the combination of:
 
 So each prompt template corresponds to one structural condition defined by an input-side configuration and an output-side configuration.
 
-## Notes on Output-Type Naming
-
-Although the full prompt set includes output settings such as `OT4`, `OT5`, `OT9`, and `OT10`, these settings were **not included in the final paper analysis** because their output-constraint adherence was not sufficiently reliable.
-
-As a result:
-
-- `OT4`, `OT5`, `OT9`, and `OT10` are excluded from the final reported analysis.
-- In the paper, the results originally corresponding to `OT6`, `OT7`, and `OT8` are **renamed as `OT4`, `OT5`, and `OT6`**, respectively, for presentation simplicity.
-
-Therefore, the naming used in this repository and the naming reported in the final paper are not fully identical. Please refer to this mapping when reproducing or comparing results.
-
 ## Intended Use
 
 This repository is intended for:
