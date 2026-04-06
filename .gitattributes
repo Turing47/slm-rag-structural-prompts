@@ -1,0 +1,2 @@
+instructions/instruction_for_c3.json filter=lfs diff=lfs merge=lfs -text
+instructions/instruction_for_rules.json filter=lfs diff=lfs merge=lfs -text
